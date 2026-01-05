@@ -1,0 +1,69 @@
+============================================================
+SALES ANALYTICS REPORT
+Generated: 2026-01-05 13:34:45
+Records Processed: 9
+============================================================
+
+OVERALL SUMMARY
+------------------------------------------------------------
+Total Revenue: INR 298,882.00
+Total Transactions: 9
+Average Order Value: INR 33,209.11
+Date Range: 2024-12-02 to 2024-12-30
+
+REGION-WISE PERFORMANCE
+------------------------------------------------------------
+Region    Sales          % of Total     Transactions
+East      INR 298,882.00 100.0          %9
+
+TOP 5 PRODUCTS
+------------------------------------------------------------
+Rank  Product                  Qty Sold    Revenue
+1     Laptop Charger           14          INR 23,808.00
+2     Webcam                   12          INR 37,665.00
+3     MonitorLED               10          INR 99,970.00
+4     Laptop Charger65W        7           INR 19,922.00
+5     External Hard Drive      6           INR 25,992.00
+
+TOP 5 CUSTOMERS
+------------------------------------------------------------
+Rank  Customer       Total Spent       Orders
+1     C024           INR 99,970.00     1
+2     C013           INR 65,673.00     1
+3     C004           INR 38,164.00     2
+4     C022           INR 37,587.00     2
+5     C012           INR 25,992.00     1
+
+DAILY SALES TREND
+------------------------------------------------------------
+Date        Revenue        Txns      Customers
+2024-12-02  INR 99,970.00  1         1
+2024-12-03  INR 19,922.00  1         1
+2024-12-07  INR 37,348.00  2         2
+2024-12-08  INR 65,673.00  1         1
+2024-12-11  INR 12,312.00  1         1
+2024-12-14  INR 11,574.00  1         1
+2024-12-21  INR 25,992.00  1         1
+2024-12-30  INR 26,091.00  1         1
+
+PRODUCT PERFORMANCE ANALYSIS
+------------------------------------------------------------
+Best Selling Day: 2024-12-02 (INR 99,970.00, 1 transactions)
+Low Performing Products:
+- Laptop: 1 units, INR 65,673.00
+- Headphones: 4 units, INR 25,852.00
+- External Hard Drive: 6 units, INR 25,992.00
+- Laptop Charger65W: 7 units, INR 19,922.00
+
+API ENRICHMENT SUMMARY
+------------------------------------------------------------
+Total Records Enriched: 0
+Enrichment Success Rate: 0.00%
+Products Not Enriched:
+- External Hard Drive
+- Headphones
+- Laptop
+- Laptop Charger
+- Laptop Charger65W
+- MonitorLED
+- Webcam
