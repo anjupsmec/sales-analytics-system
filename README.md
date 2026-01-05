@@ -1,5 +1,11 @@
 # Sales Analytics System
 
+**Student Name:** Anju P S  
+**Student ID:** BITSoM_BA_25071351
+**Email:** anjupsmec@gmail.com
+**Date:** 06-01-2026
+
+
 ## Project Overview
 This project is a Python-based Sales Data Analytics System built to process,
 clean, analyze, enrich, and report on e-commerce sales transactions.
